@@ -1,0 +1,46 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "Danny Diamond",
+          "email": "d.diamond1@nuigalway.ie"
+        },
+        "annotator": {
+          "name": "Danny Diamond"
+        },
+        "version": 1,
+        "corpus": "CRE",
+        "annotation_tools": "FONN-Tool",
+        "annotation_rules": null,
+        "validation": null,
+        "data_source": "program"
+      },
+      "namespace": "pattern-Relationships-FoNN",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.0,
+          "value": {
+            "pattern_id1": "1",
+            "pattern_id2": "2",
+            "pattern_relationship": "SameAs"
+          },
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 130,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}

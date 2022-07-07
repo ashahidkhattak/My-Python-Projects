@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "Dice-Rolling"
+		},
+		{
+			"path": "JAMS-Annotation"
+		},
+		{
+			"path": "MadLibsGenerator"
+		},
+		{
+			"path": "NumberGuessing"
+		},
+		{
+			"path": "Hangman"
+		}
+	]
+}

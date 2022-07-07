@@ -1,0 +1,15 @@
+{"pattern-Relationships-FoNN":
+    {
+        "value": {
+            "type": "object",
+            "properties": {
+                "pattern_id1": {"type": "string"},
+                "pattern_id2": {"type": "string"},
+                "pattern_relationship": {"type": "string"}
+            },
+            "required": ["pattern_id1", "pattern_id2", "pattern_relationship"]
+        },
+        "dense": false,
+        "description": "FoNN-Patterns Relationships"
+    }
+}
