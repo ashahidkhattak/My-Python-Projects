@@ -16,7 +16,7 @@ class Hangman:
             _ = os.system('cls')
 
     def drawHangman(self):
-        
+        #this will draw hangman
         if(self.wrongAttempt == 1):
             print("+-----+")
             print("      |")
