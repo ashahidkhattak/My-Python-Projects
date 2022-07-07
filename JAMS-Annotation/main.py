@@ -7,7 +7,7 @@ sample.file_metadata.release = "Give me a pattern"
 sample.file_metadata.duration = 130
 
 pattern_annotation = jams.Annotation(namespace="pattern_jku")
-
+#print("test")
 mydict = {
 "pattern_id": 1,
 "midi_pitch": 50,
